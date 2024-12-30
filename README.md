@@ -1,6 +1,8 @@
 # Prodigy-InfoTech-Task 3
 
+Overview of Password Complexity Checker
 
+The Password Complexity Checker analyzes passwords to ensure they meet modern security standards. A secure password is crucial for protecting sensitive data and minimizing the risk of unauthorized access.
 
 Benefits
 
