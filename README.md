@@ -20,15 +20,21 @@ Legal and Ethical Issues: Use without explicit consent may violate privacy laws 
 Security Risks: Vulnerable to exploitation if the log file is accessed by unauthorized users.
 
 Uses
+
 Parental Control:
 Monitor children's online activities for safety.
+
 Employee Monitoring:
 Track workplace productivity (with consent).
+
 Educational Purposes:
 Teach cybersecurity concepts like monitoring and defense.
+
 Personal Recovery Tool:
 Record keystrokes to recover lost text or inputs.
+
 Ethical Considerations
+
 Transparency: Inform users that their keystrokes are being logged.
 Permissions: Obtain explicit consent before deploying the tool.
 Data Security: Encrypt logs and limit access to authorized personnel.
